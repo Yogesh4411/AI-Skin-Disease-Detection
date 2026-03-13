@@ -1,0 +1,18 @@
+AI-Skin-Disease-Detection
+│
+├── backend
+│   ├── train_model.py
+│   ├── predict.py
+│   └── app.py
+│
+├── frontend
+│   └── index.html
+│
+├── dataset
+│   ├── train
+│   └── test
+│
+├── model
+│
+├── requirements.txt
+└── README.md
